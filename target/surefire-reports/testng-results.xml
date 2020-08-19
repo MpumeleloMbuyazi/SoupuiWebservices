@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-19T14:16:31 CAT" name="Webservice TestSuite" finished-at="2020-08-19T14:17:36 CAT" duration-ms="64958">
+    <groups>
+    </groups>
+    <test started-at="2020-08-19T14:16:31 CAT" name="TestCases" finished-at="2020-08-19T14:17:36 CAT" duration-ms="64958">
+      <class name="Rest.restTest">
+        <test-method signature="multipleTest()[pri:0, instance:Rest.restTest@51dcb805]" started-at="2020-08-19T14:16:31 CAT" name="multipleTest" finished-at="2020-08-19T14:17:33 CAT" duration-ms="62672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleTest -->
+        <test-method signature="singleTest()[pri:0, instance:Rest.restTest@51dcb805]" started-at="2020-08-19T14:17:33 CAT" name="singleTest" finished-at="2020-08-19T14:17:34 CAT" duration-ms="803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleTest -->
+      </class> <!-- Rest.restTest -->
+      <class name="Soap.soapTestRunner2">
+        <test-method signature="multipleTest()[pri:0, instance:Soap.soapTestRunner2@66498326]" started-at="2020-08-19T14:17:34 CAT" name="multipleTest" finished-at="2020-08-19T14:17:35 CAT" duration-ms="1065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleTest -->
+        <test-method signature="singleTest()[pri:0, instance:Soap.soapTestRunner2@66498326]" started-at="2020-08-19T14:17:35 CAT" name="singleTest" finished-at="2020-08-19T14:17:36 CAT" duration-ms="382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleTest -->
+      </class> <!-- Soap.soapTestRunner2 -->
+    </test> <!-- TestCases -->
+  </suite> <!-- Webservice TestSuite -->
+</testng-results>

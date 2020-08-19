@@ -1,0 +1,44 @@
+2020-08-19 14:16:31,611 WARN  [SoapUI] Missing folder [C:\Users\mdube\Documents\SoapUI project\ext] for external libraries
+2020-08-19 14:16:31,802 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\mdube\soapui-settings.xml]
+2020-08-19 14:16:32,973 INFO  [Reflections] Reflections took 146 ms to scan 2 urls, producing 75 keys and 160 values 
+2020-08-19 14:16:33,032 INFO  [Reflections] Reflections took 29 ms to scan 1 urls, producing 46 keys and 344 values 
+2020-08-19 14:16:33,057 INFO  [Reflections] Reflections took 10 ms to scan 1 urls, producing 11 keys and 17 values 
+2020-08-19 14:16:33,084 INFO  [Reflections] Reflections took 9 ms to scan 1 urls, producing 13 keys and 21 values 
+2020-08-19 14:16:33,392 INFO  [Reflections] Reflections took 212 ms to scan 13 urls, producing 341 keys and 1458 values 
+2020-08-19 14:16:33,413 INFO  [PluginManager] Adding plugin from [C:\Users\mdube\.soapuios\plugins\soapui-swagger-plugin-2.2-dist.jar]
+2020-08-19 14:16:33,413 INFO  [PluginManager] Adding plugin from [C:\Users\mdube\.soapuios\plugins\ready-mqtt-plugin-dist.jar]
+2020-08-19 14:16:33,480 INFO  [Reflections] Reflections took 41 ms to scan 2 urls, producing 75 keys and 160 values 
+2020-08-19 14:16:33,709 INFO  [Reflections] Reflections took 192 ms to scan 13 urls, producing 341 keys and 1458 values 
+2020-08-19 14:16:34,389 INFO  [Reflections] Reflections took 888 ms to scan 1 urls, producing 1492 keys and 5707 values 
+2020-08-19 14:16:34,457 INFO  [PluginManager] Adding plugin from [C:\Users\mdube\.soapuios\plugins\ready-uxm-plugin-os-1.0.3.jar]
+2020-08-19 14:16:34,493 INFO  [Reflections] Reflections took 24 ms to scan 1 urls, producing 46 keys and 344 values 
+2020-08-19 14:16:34,595 INFO  [Reflections] Reflections took 865 ms to scan 1 urls, producing 1492 keys and 5707 values 
+2020-08-19 14:16:34,650 INFO  [PluginManager] Adding plugin from [C:\Users\mdube\.soapuios\plugins\readyapi-postman-1.0.1.jar]
+2020-08-19 14:16:34,675 INFO  [Reflections] Reflections took 10 ms to scan 1 urls, producing 11 keys and 17 values 
+2020-08-19 14:16:35,202 INFO  [Reflections] Reflections took 698 ms to scan 1 urls, producing 1492 keys and 5707 values 
+2020-08-19 14:16:35,209 INFO  [PluginManager] Adding plugin from [C:\Users\mdube\.soapuios\plugins\readyapi-swaggerhub-plugin-1.0.jar]
+2020-08-19 14:16:35,225 INFO  [Reflections] Reflections took 4 ms to scan 1 urls, producing 13 keys and 21 values 
+2020-08-19 14:16:35,297 INFO  [Reflections] Reflections took 615 ms to scan 1 urls, producing 1492 keys and 5707 values 
+2020-08-19 14:16:35,629 INFO  [Reflections] Reflections took 399 ms to scan 1 urls, producing 1492 keys and 5707 values 
+2020-08-19 14:16:35,640 INFO  [PluginManager] 5 plugins loaded in 2226 ms
+2020-08-19 14:16:35,640 INFO  [DefaultSoapUICore] All plugins loaded
+2020-08-19 14:16:37,162 INFO  [WsdlProject] Loaded project from [file:/C:/Users/mdube/Documents/SoupUI/REST%20Projects/Book-Library-REST-Project-soapui-project.xml]
+2020-08-19 14:17:33,931 INFO  [WsdlProject] Loaded project from [file:/C:/Users/mdube/Documents/SoupUI/REST%20Projects/Book-Library-REST-Project-soapui-project.xml]
+2020-08-19 14:17:34,789 INFO  [WsdlProject] Loaded project from [file:/C:/Users/mdube/Documents/SoupUI/EmployeeManagement-Automation-soapui-project.xml]
+2020-08-19 14:17:35,144 INFO  [log] Hello world
+2020-08-19 14:17:35,156 INFO  [log] Mpumi
+2020-08-19 14:17:35,156 INFO  [log] 30
+2020-08-19 14:17:35,201 INFO  [log] 1900
+2020-08-19 14:17:35,203 INFO  [log] IT
+2020-08-19 14:17:35,710 INFO  [log] Mpumi
+2020-08-19 14:17:35,710 INFO  [log] 30
+2020-08-19 14:17:35,804 INFO  [WsdlProject] Loaded project from [file:/C:/Users/mdube/Documents/SoupUI/EmployeeManagement-Automation-soapui-project.xml]
+2020-08-19 14:17:35,878 INFO  [log] Hello world
+2020-08-19 14:17:35,879 INFO  [log] Mpumi
+2020-08-19 14:17:35,879 INFO  [log] 30
+2020-08-19 14:17:35,879 INFO  [log] 1900
+2020-08-19 14:17:35,879 INFO  [log] IT
+2020-08-19 14:17:36,060 INFO  [log] Mpumi
+2020-08-19 14:17:36,061 INFO  [log] 30
+2020-08-19 14:17:36,408 WARN  [Tools] Could not delete temporary directory C:\Users\mdube\AppData\Local\Temp\790dbf5b-f604-402e-b0b5-8459a105f267
+2020-08-19 14:17:36,430 WARN  [Tools] Could not delete temporary directory C:\Users\mdube\AppData\Local\Temp\4d057ee8-7131-4fea-8e22-ce9b8e8f4fbc
